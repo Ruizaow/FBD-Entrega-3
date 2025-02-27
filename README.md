@@ -10,9 +10,10 @@ Plataforma interativa e educacional desenvolvida para proporcionar uma experiên
 
 Para a terceira entrega do projeto, enviada no presente repositório e que consiste na implementação da aplicação que acessa o banco de dados por meio de um CRUD completo, serão utilizadas as seguintes tecnologias:
 
-1. **Linguagem de Programação:** Python.
-2. **Bibliotecas de acesso a dados:** psycopg2, SQLAlchemy e Panel.
-3. **Plataforma:** Jupyter Notebook.
+1. **IDE:** VSCode.
+2. **Linguagem de Programação:** Python.
+3. **Bibliotecas de acesso a dados:** psycopg2, SQLAlchemy e Panel.
+4. **Extensão:** Jupyter Notebook.
 
 ## Membros da equipe:
 
